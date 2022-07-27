@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,700;1,400&family=Open+Sans:wght@300;400;700&family=Roboto:wght@100;400;700&display=swap');
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.estilobackground{
+    background-color: #e0eff0;
+
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+    height: 20px;
+    width: 20px;
+    outline: red;
+    background-color: rgba(206, 46, 46, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 80%;
+    
+}
+.itemBorda{
+    border: double;
+}
+
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.fundo{
+    background-color: rgb(4, 4, 5);
+    padding: 20px;
+    margin: 20px auto;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.btn-close{
+    background-color: white;
+    
+}
+
+#continuar-comprando{
+    height: 3em;
+    width: 15em;
+    border-radius: 4em;
+}
+#estiloBotaoFechar{
+    height: 3em;
+    width: 5em;
+    border-radius: 4em;
+}
+
+
+body{
+    padding: 0;
+    margin: 2%;
+    background-color: #e0eff0;
+}
