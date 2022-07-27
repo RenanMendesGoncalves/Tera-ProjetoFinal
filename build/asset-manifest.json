@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8022a293.css",
+    "main.js": "/static/js/main.eb720f9d.js",
+    "static/js/787.f5f68b82.chunk.js": "/static/js/787.f5f68b82.chunk.js",
+    "static/media/cadastre-se1.png": "/static/media/cadastre-se1.6f57117965b507843916.png",
+    "static/media/casual.jpeg": "/static/media/casual.18c543bc7dc1ce9a1535.jpeg",
+    "static/media/crossfit.jpeg": "/static/media/crossfit.6c2313a040b1dbc6d5d3.jpeg",
+    "static/media/corrida.jpeg": "/static/media/corrida.55cc542e9f57c1bea7e5.jpeg",
+    "static/media/tenis19.png": "/static/media/tenis19.a1233108d5c6b22df047.png",
+    "static/media/tenis18.png": "/static/media/tenis18.cd73b3931226e919c8c8.png",
+    "static/media/casual2.jpeg": "/static/media/casual2.5655cd6f2d381f82131f.jpeg",
+    "static/media/logo da loja.png": "/static/media/logo da loja.be619564ccc6f14a1661.png",
+    "static/media/teniscross3.jpeg": "/static/media/teniscross3.e3e71910c1382b835bc1.jpeg",
+    "static/media/tenis4.png": "/static/media/tenis4.70be0a9805c5dfe0cc1c.png",
+    "static/media/tenis3.png": "/static/media/tenis3.7289e6d9aa7dc7f0fa17.png",
+    "static/media/master.png": "/static/media/master.3bffc7d5682617c29473.png",
+    "static/media/casual3.jpeg": "/static/media/casual3.6a69481a55f3c8b06cdc.jpeg",
+    "static/media/boleto.png": "/static/media/boleto.d6d6c8fe6ae580866dd3.png",
+    "static/media/teniscross1.jpeg": "/static/media/teniscross1.b66bf8fa4e79dc92d949.jpeg",
+    "static/media/instagram.png": "/static/media/instagram.4c18839da1726e8a4ea0.png",
+    "static/media/teniscross2.jpeg": "/static/media/teniscross2.55b211bf5762f5a29908.jpeg",
+    "static/media/tenis13.jpeg": "/static/media/tenis13.9ded4d85f7e3aca76137.jpeg",
+    "static/media/casual1.jpeg": "/static/media/casual1.300e5ea99e32602352ab.jpeg",
+    "static/media/zap.png": "/static/media/zap.69da22e2eabc05457968.png",
+    "static/media/visa.png": "/static/media/visa.5aff04546756b8a752d5.png",
+    "static/media/tenis5.png": "/static/media/tenis5.49595d6aa05c3230c1f0.png",
+    "static/media/tenis6.png": "/static/media/tenis6.01714694a2352f6953a6.png",
+    "index.html": "/index.html",
+    "main.8022a293.css.map": "/static/css/main.8022a293.css.map",
+    "main.eb720f9d.js.map": "/static/js/main.eb720f9d.js.map",
+    "787.f5f68b82.chunk.js.map": "/static/js/787.f5f68b82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8022a293.css",
+    "static/js/main.eb720f9d.js"
+  ]
+}
